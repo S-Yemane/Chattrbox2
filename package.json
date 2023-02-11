@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/S-Yemane/Chattrbox#readme",
   "devDependencies": {
-    "nodemon": "^2.0.3"
+    "nodemon": "^2.0.20"
   },
   "dependencies": {
     "mime": "^2.4.5",
